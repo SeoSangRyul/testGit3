@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         var a = 20 //Int
         val b = 20
         //2. 연산자
+        //ㅏㅓㄹㅇ뉘ㅏㅇㄴ무리ㅏㅟㅏㅓㅟㅏㅓㄹㅇ눌ㅇ니ㅏㅓㅜ
 
         printf(""+(a+b))
         //3.제어문
